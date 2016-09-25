@@ -2,13 +2,13 @@
 # @Author: ZwEin
 # @Date:   2016-09-25 14:55:45
 # @Last Modified by:   ZwEin
-# @Last Modified time: 2016-09-25 15:54:50
+# @Last Modified time: 2016-09-25 16:00:42
 
 import os
 import sys
 import json
 import codecs
-import faerie
+
 
 DICT_PATH = os.path.join(os.path.dirname(__file__), '..', 'dictionaries')
 
@@ -27,6 +27,9 @@ def load_dictionary_dir(dirpath):
 
         path = os.path.join(dirpath, filename)
         ans += load_dictionary_file(path)
+    ans = list(set(ans))
+    return ans
+
 
 if __name__ == '__main__':
 
