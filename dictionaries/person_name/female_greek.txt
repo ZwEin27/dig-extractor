@@ -1,99 +1,387 @@
-Achima
-Adelpha
-Adonia
-Adrasteia
-Aella
-Aellai
-Agape
-Agathe
-Agaue
-Aglaia
-Aglaie
-Aigle
-Aikaterine
-Akakallis
-Akantha
-Alala
-Alekto
+Achimah
+Adelfa (Αδελφά)
+Adelpha (Αδελφά)
+Adonia (Αδώνια)
+Adrasteia (Ἀδράστεια)
+Aella (Αελλα)
+Aellai (Αελλαι)
+Aellô (Ἀελλώ)
+Agape (Αγάπη)
+Agathe (Αγάθη)
+Agaue (Ἀγαυή)
+Agave
+Aglaia (Ἀγλαΐα)
+Aglaie (Ἀγλαΐη)
+Aigle (Αίγλη)
+Aikaterina
+Aikaterine (Αἰκατερίνη)
+Akakallis (Ακακαλλις)
+Akantha (Άκανθα)
+Akeldama (Ἀκελδαμά)
+Alala (Ἀλαλά)
+Alekto (Ἀληκτώ)
 Alexandra
-Alkestis
-Alkippe
-Alkmene
-Alkyone
-Althaia
-Amaltheia
+Alkestis (Άλκηστις)
+Alkippe (Αλκιππη)
+Alkmene (Ἀλκμήνη)
+Alkyone (Ἁλκυόνη)
+Althaia (Αλθαία)
+Amaltheia (Αμάλθεια)
+Ambrosia
+Amethea
 Aminta
-Amphitrite
-Amynta
+Amphitrite (Αμφιτρίτη)
+Amynta (Αμύντα)
+Anaïtis (Ἀναίτις)
 Anastasia
-Anastasoula
-Andromache
-Andromede
-Andronika
-Antheia
-Anthousa
-Antigone
-Antiope
-Aoide
-Aphrodite
-Apollonia
-Arethousa
-Artemis
-Astarte
+Anastasoula (Αναστασούλα)
+Andromache (Ἀνδρομάχη)
+Andromēde (Ανδρομέδη)
+Andronika (Ανδρόνικα)
+Anemone (Άνεμονη)
+Antheia (Άνθεια)
+Anthousa (Ανθούσα)
+Antigone (Αντιγόνη)
+Antiope (Ἀντιόπη)
+Aoede
+Aoide (Αοιδή)
+Aphrodisia (Αφροδίσια)
+Aphrodite (Άφροδίτη)
+Apollonia (Ἀπολλωνία)
+Apphia (Ἀπφία)
+Arachne (Ἀράχνη)
+Arethousa (Ἀρέθουσα)
+Ariadnê (Αριάδνη)
+Aristodeme (Ἀριστόδημε)
+Aristomache (Ἀριστομάχη)
+Artemis (Ἄρτεμις)
+Aspasia (Ασπασία)
+Astarte (Ἀστάρτη)
 Astraia
-Atalante
+Atalante (Αταλάντη)
 Athanasia
-Athene
-Atropos
-Barbara
-Baukis
-Berenike
-Bethania
-Bethesda
-Bethzatha
+Athene (Ἀθήνη)
+Atropos (Άτροπος)
+Barbara (Βαρβάρα)
+Baukis (Βαυκις)
+Berenike (Βερενίκη)
+Bethania (Βηθανία)
+Bethesda (Βηθεσδά)
+Bethzatha (Βηθζαθά)
+Callidora
+Chara (Χαρά)
 Chariklo
-Chloe Greek
-Chrysanthe
-Damalis
-Daphne
+Chloē (Χλόη)
+Chrysanthe (Χρυσάνθη)
+Damali
+Damalis (Δάμαλις)
+Damaris (Δάμαρις)
+Danaë (Δανάη)
+Daphne (Δάφνη)
 Dareia
-Demeter
+Dariea
+Delia (Δήλια)
+Delphinia (Δελφίνια)
+Demeter (Δημήτηρ)
 Desdemona
 Despoina
-Despoine
+Despoine (Δεσποίνη)
 Dianthe
-Dido
+Dido (Διδώ)
+Diônê (Διώνη)
 Dionysia
 Disdemona
-Doris
-Dorkas
+Doris (Δωρίς)
+Dorkas (Δορκάς)
 Dorothea
-Eileithyia
-Ekho
+Dorris
+Efrosyni (Εφροσύνη)
+Efthalia (Εφθαλία)
+Eidothea (Ειδοθεα)
+Eileithyia (Εἰλείθυια)
+Êionê (Ηιονη)
+Eirênê (Εἰρήνη)
+Ekho (Έχω)
+Eleftheria
 Elektra
-Elene
-Elisabet
+Elene (Ελένη)
+Eleni
+Elisabet (Ἐλισάβετ)
 Elissa
-Elysia
-Enyo
-Eos
-Eris
-Euadne
-Eudokia
-Eudoxia
-Eugeneia
-Eunike
-Eupraxia
-Europe
-Eurybia
-Eurydike
+Elpida
+Elpis (Ἐλπίς)
+Elysia (Ἠλύσια)
+Enyo (Ενυώ)
+Eos (Ἠώς)
+Erato (Ερατώ)
+Érika
+Eris (Έρις)
+Euadne (Ευαδνη)
+Eudokia (Ευδοκία)
+Eudora (Ευδώρα)
+Eudoxia (Ευδοξία)
+Eugeneia (Ευγένεια)
+Eumelia (Ευμελια)
+Eunike (Εὐνίκη)
+Euphêmê (Εύφημη)
+Euphêmia (Ευφημία)
+Euphrosynê (Ευφροσύνη)
+Eupraxia (Ευπραξία)
+Europe (Ευρώπη)
+Eurybia (Ευρυβία)
+Eurydike (Ευρυδίκη)
 Eurynome
-Euterpe
-Euthalia
-Eva
+Euterpe (Ευτέρπη)
+Euthalia (Ευθαλία)
+Eutropia (Ευτροπια)
+Eva (Εὔα)
 Evdokia
-Foteini
-Fotini
-Gaia
-Ge
-Golgotha
+Evgenia
+Foteini (Φωτεινή)
+Fotini (Φωτινή)
+Frona
+Gaia (Γα锟Α)
+Galênê (Γαλήνη)
+Ge (Γῆ)
+Gia
+Glykeria (Γλυκερία)
+Golgotha (Γολγοθά)
+Gorgophone (Γοργοφόνη)
+Hagne (Άγνη)
+Halkyone (Ἁλκυόνη)
+Hanna (Ἄννα)
+Harmonia (Αρμονία)
+Hathor (Αθορ)
+Hêbê (Ἥβη)
+Hekabe (Ἑκάβη)
+Hekate (Εκάτη)
+Helénē (Ἑλένη)
+Helle (Έλλη)
+Hemera (Ημέρα)
+Hêrâ (Ήρα)
+Hermione (῾Ερμιόνη)
+Hero (Ἡρὼ)
+Herodias (Ἡρωδιάς)
+Hestia (Ἑστία)
+Hippolyte (Ἱππολύτη)
+Hōsanna (Ωσαννά)
+Hydra (Ὕδρα)
+Hypatia (Ὑπατια)
+Ianthe (Ιάνθη)
+Iezabel (Ἰεζάβελ)
+Ilithyia
+Iô (Ιώ)
+Ioanna (Ιωάννα)
+Iokaste (Ἰοκάστη)
+Iolanthe (Ιολανθη)
+Iole (Ιόλη)
+Ioulia (Ἰουλία)
+Iphigeneia (Ἰφιγένεια)
+Iris (Ίρις)
+Isidora (Ισίδωρα)
+Isis (Ίσις)
+Ismênê (Ἰσμήνη)
+Iva
+Jocaste (Ἰοκάστη)
+Kalligeneia (Καλλιγένεια)
+Kalliope (Καλλιόπη)
+Kallistê (Καλλίστη)
+Kallisto (Καλλιστώ)
+Kalypso (Καλυψώ)
+Kandake (Κανδάκη)
+Karme (Κάρμη)
+Kassandra (Κασσάνδρα)
+Kassiopeia (Κασσιέπεια)
+Keres (Κῆρες)
+Keto (Κητώ)
+Khariklo (Χαρικλώ)
+Kharis (Χάρις)
+Khloe (Χλόη)
+Khloris (Χλωρίς)
+Khryseis (Χρύσηίς)
+Khthonia (Χθόνια)
+Kirke (Κίρκη)
+Kleio (Κλειώ)
+Kleopatra (Κλεοπάτρα)
+Klotho (Κλωθώ)
+Klymene (Κλυμένη)
+Klytaimnestra (Κλυταιμνήστρα)
+Klytiê
+Kora
+Kore (Κόρη)
+Kori
+Korina
+Korinna (Κόριννα)
+Kuma (Κύμα)
+Kuria (Κυρία)
+Kybele (Κυβηλη)
+Kyma (Κύμα)
+Kynthia (Κύνθια)
+Kyra (Κύρα)
+Kyriake (Κυριακή)
+Kyriaki
+Lakhesis (Λάχεσις)
+Lalage (Λαλαγη)
+Lamia (Λαμία)
+Lárisa (Λάρισα)
+Lavra (Λαύρα)
+Leda (Λήδα)
+Lêtô (Λητώ)
+Leukothea (Λευκοθέα)
+Ligeia (Λίγεια)
+Lois (Λωΐς)
+Lydia (Λυδία)
+Lysandra (Λυσάνδρα)
+Lysimache (Λυσιμάχη)
+Lysistrate (Λυσιστράτη)
+Magdalēnē (Μαγδαληνή)
+Maia (Μαία)
+Margarites (Μαργαρίτες)
+Maria (Μαρία)
+Mariam (Μαριάμ)
+Martha (Hebrew
+Medeia (Μήδεια)
+Medousa (Μέδουσα)
+Megaira (Μέγαιρα)
+Melaina (Μέλαινα)
+Melaine (Μελαινη)
+Meletê (Μελέτη)
+Melina (Μελίνα)
+Melissa (Μέλισσα)
+Melite (Μελίτη)
+Melpomenê (Μελπομένη)
+Minthe (Μένθη)
+Mnêmê (Μνήμη)
+Mnêmosynê (Μνημοσύνη)
+Myrina (Μυρίνα)
+Myrine (Μυρίνη)
+Myrrine (Μυρρίνη)
+Nana (Νανα)
+Narkissa (Νάρκισσα)
+Natása (Νατάσα)
+Natassa (Νατάσσα)
+Nemesis (Νέμεσις)
+Nephelê (Νεφέλη)
+Nephthys (Νέφθυς)
+Nerine
+Nikê (Νίκη)
+Nikephoros (Νικηφόρος)
+Nikoleta (Νικολίτα)
+Nyx (Νύξ)
+Oinone (Οινώνη)
+Okyrhoe (Οκυροη)
+Olimpia (Ολυμπία)
+Olympia (Ολυμπία)
+Olympias (Ολυμπιάς)
+Ophelia (Οφέλια)
+Ourania (Ουρανία)
+Pallas (Παλλάς)
+Panagiota (Παναγιώτα)
+Pandora (Πανδώρα)
+Paraskeve (Παρασκευή)
+Parthenia (Παρθενιά)
+Parthenopê (Παρθενορή)
+Pelagia (Πελαγία)
+Penelopeia (Πηνελόπεια)
+Pêrô (Πηρω)
+Persephone (Περσεφόνη)
+Persis (Πέρσις)
+Phaidra (Φαίδρα)
+Phanessa
+Pherenike (Φερενίκη)
+Phile
+Phillida
+Philomel (Φιλομήλ)
+Philomela (Φιλομήλα)
+Philomena (Φιλομήνα)
+Philyre (Φιλύρη)
+Phoibe (Φοίβη)
+Photine (Φωτινή)
+Phyllida
+Phyllis (Φυλλίς)
+Plêionê (Πλειόνη)
+Podarge (Ποδαργη)
+Polona (Πολωνα)
+Polymnia (Πολύμνια)
+Polyxene (Πολυξένη)
+Priska (Πρίσκα)
+Priskilla (Πρίσκιλλα)
+Prokris (Πρόκρις)
+Psykhe (Ψυχή)
+Ptolema
+Reah
+Rhaab (Ῥαάβ)
+Rhachab (Ῥαχάβ)
+Rhachel (Ῥαχήλ)
+Rhea (Ῥέα)
+Rhebekka (Ῥεβέκκα)
+Rheia (Ρεία)
+Rhodē (Ῥόδη)
+Rhouth (Ῥούθ)
+Salōmē (Σαλώμη)
+Sappheire (Σαπφειρη)
+Sapphira (Σάπφιρα)
+Sappho (Σαπφώ)
+Sarra (Σάρρα)
+Satyrion (Σάτυριον)
+Selene (Σελήνη)
+Semele (Σεμέλη)
+Sibyl (Σίβύλ)
+Sibylla (Σίβύλλα)
+Skylla (Σκύλλα)
+Sofia
+Sofronia (Σωφρονία)
+Sophia (Σoφ锟Α)
+Sophie
+Sophronia (Σωφρονία)
+Sostrate (Σωστράτη)
+Sotiria (Σωτηρία)
+Sousánna (Σουσάννα)
+Spyridoula (Σπυριδούλα)
+Stamatia (Σταματία)
+Syntyche (Συντύχη)
+Tabitha (Aramaic
+Talitha (Greek
+Tanis (Τάνις)
+Tasoula (Τασούλα)
+Terpsikhore (Τερψιχόρη)
+Tethys (Τηθύς)
+Thaïs (Θαΐς)
+Thalassa (Θάλασσα)
+Thaleia (Θάλεια)
+Thana (Θάνα)
+Thea
+Thekla (Θέκλα)
+Themis (Θέμις)
+Theodora (Θεοδώρα)
+Theodosia (Θεοδοσία)
+Theokleia (Θεόκλεια)
+Theophania (Θεοφάνια)
+Theophila (Θεοφιλά)
+Thera (Θήρα)
+Thetis (Θέτις)
+Thyia (Θυία)
+Thyone (Θυώνη)
+Timo (Τίμω)
+Timothea (Τιμοθέα)
+Tisiphone (Τισιφόνη)
+Titaia
+Titania (Τιτάνια)
+Tryphaina (Τρύφαινα)
+Tryphosa (Τρυφωσα)
+Tyro (Τυρώ)
+Vasiliki (Βασιλική)
+Xanthê (Ξάνθη)
+Xanthippe (Ξανθίππη)
+Xena (Ξένα)
+Xene (Ξένη)
+Xenia (Ξενία)
+Zena (Ζένα)
+Zenais (Ζηναις)
+Zenia (Ζένια)
+Zenobia (Ζηνοβία)
+Zenovia
+Zephyra (Ζεφύρα)
+Zoe (Ζωή)
+Zona (Ζώνα)
+Zosime (Ζώσιμη)
