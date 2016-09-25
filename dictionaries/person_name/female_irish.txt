@@ -9,17 +9,17 @@ Ahana
 Aignéis
 Ailbhe
 Ailish
-Áine (Pron. Awnya)
+Áine
 Aingeal
 Aislin
 Aisling
 Aislinn
 Aithne
 Aithnea
-Aoibheann (Pronounced Ee-Ven)
+Aoibheann
 Aoibhín
 Aoibhinn
-Aoife (Pronounced Ee-Fya)
+Aoife
 Assumpta
 Aurnia
 Baibin
@@ -63,7 +63,7 @@ Caitríona
 Caoilainn
 Caoilfhionn
 Caoilinn
-Caoimhe (Pronounced Kee-Va)
+Caoimhe
 Carlin
 Carlyn
 Cary
@@ -94,7 +94,7 @@ Eilís
 Eilish
 Eireann
 Éirinn
-Eithne (Pronounced Ee-Na)
+Eithne
 Emer
 Ériu
 Étaín
@@ -124,11 +124,11 @@ Líadáin
 Líadan
 Líle
 Loreto
-Luighseach (Pron. Lee-Shock)
+Luighseach
 Madailéin
 Maeghan
 Máire
-Mairéad (Pron. My-Raid)
+Mairéad
 Mairenn
 Máirín
 Mairsile
@@ -186,8 +186,8 @@ Sérlait
 Sibéal
 Síle
 Síne
-Sinéad (Pron. Shinade)
-Siobhán (Pronounced Shivawn)
+Sinéad
+Siobhán
 Siofra
 Síomha
 Síthmaith

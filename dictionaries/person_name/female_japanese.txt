@@ -1,197 +1,197 @@
-Aika (愛佳)
-Aiko (愛子)
-Aimi (愛美)
-Akane (茜)
-Akemi (明美)
-Aki (1-秋, 2-明, 3-晶)
-Akiko (1-秋子, 2-明子, 3-晶子)
-Akira (1-明, 2-亮)
-Amaterasu (天照)
+Aika
+Aiko
+Aimi
+Akane
+Akemi
+Aki
+Akiko
+Akira
+Amaterasu
 Amaya
-Aoi (1-碧, 2-葵)
-Arisu (アリス)
-Asami (麻美)
-Asuka (明日香)
-Atsuko (1-篤子, 2-温子)
-Avaron (アヴァロン)
-Aya (1-彩, 2-綾)
-Ayaka (1-彩花, 2-彩華)
-Ayako (1-彩子, 2-綾子)
-Ayame (菖蒲)
-Ayano (1-彩乃, 2-綾乃)
-Ayumi (あゆみ)
-Azumi (あずみ)
+Aoi
+Arisu
+Asami
+Asuka
+Atsuko
+Avaron
+Aya
+Ayaka
+Ayako
+Ayame
+Ayano
+Ayumi
+Azumi
 Bunko
 Chiasa
-Chie (恵)
-Chieko (恵子)
-Chiharu (千春)
-Chika (散花)
-Chikako (千香子)
-Chinatsu (千夏)
-Chiyo (千代)
-Chiyoko (千代子)
+Chie
+Chieko
+Chiharu
+Chika
+Chikako
+Chinatsu
+Chiyo
+Chiyoko
 Cho
-Chou (蝶)
-Eiko (栄子)
-Emi (1-恵美, 2-絵美)
-Emiko (1-恵美子, 2-笑子)
-Eri (絵理)
-Etsuko (悦子)
-Fuji (富)
-Fumiko (文子)
+Chou
+Eiko
+Emi
+Emiko
+Eri
+Etsuko
+Fuji
+Fumiko
 Gina
-Hana (花)
-Hanako (花子)
-Haru (1-晴, 2-春, 3-陽)
-Haruka (遙, 遥, 悠, 遼)
-Haruki (春樹)
-Haruko (はるこ)
-Harumi (春美)
-Hideko (秀子)
-Hikari (光)
-Hikaru (輝)
-Hiro (1-裕, 2-寛, 3-浩)
-Hiroko (1-裕子, 2-浩子, 3-寛子)
-Hiromi (1-裕美, 2-浩美, 3-寛美)
-Hisako (久子)
-Hisoka (密)
-Hitomi (瞳)
-Hoshi (星)
-Hotaru (蛍)
-Izanami (イザナミ)
-Izumi (泉)
-Jun (順)
-Junko (1-順子, 2-純子)
-Kaede (楓)
+Hana
+Hanako
+Haru
+Haruka
+Haruki
+Haruko
+Harumi
+Hideko
+Hikari
+Hikaru
+Hiro
+Hiroko
+Hiromi
+Hisako
+Hisoka
+Hitomi
+Hoshi
+Hotaru
+Izanami
+Izumi
+Jun
+Junko
+Kaede
 Kame
-Kameko (上子)
+Kameko
 Kameyo
-Kamiko (上子)
-Kaori (香織)
-Kaoru (薫)
-Kasumi (霞)
-Katsumi (勝美)
+Kamiko
+Kaori
+Kaoru
+Kasumi
+Katsumi
 Kayo
-Kazue (一恵)
-Kazuko (1-和子, 2-一子)
-Kazumi (和美)
-Kei (1-恵, 2-慶, 3-桂, 4-敬, 5-啓, 6-圭, 7-景)
-Keiko (1-恵子, 2-慶子, 3-桂子, 4-敬子, 5-啓子, 6-圭子, 7-景子)
-Kiku (菊)
-Kimi (君)
-Kimiko (1-后子, 2-君子)
-Kin (欽)
-Kiyoko (清子)
-Kiyomi (清見)
-Ko (1-幸, 2-光, 3-康)
-Kohaku (琥珀)
-Kotone (琴音)
-Kou (1-幸, 2-光, 3-康)
-Kumiko (久美子)
-Kyo (1-杏, 2- 京, 3- 協, 4- 郷)
-Kyoko (恭子)
-Kyou (1-杏, 2- 京, 3- 協, 4- 郷)
-Madoka (1-円, 2-円花)
-Mai (舞)
-Maiko (舞子)
-Maki (1-真紀, 2-真希, 3-真貴, 4-真樹)
-Makoto (誠)
-Mana (愛)
-Manami (1-愛美, 2-愛海)
+Kazue
+Kazuko
+Kazumi
+Kei
+Keiko
+Kiku
+Kimi
+Kimiko
+Kin
+Kiyoko
+Kiyomi
+Ko
+Kohaku
+Kotone
+Kou
+Kumiko
+Kyo
+Kyoko
+Kyou
+Madoka
+Mai
+Maiko
+Maki
+Makoto
+Mana
+Manami
 Mari
-Mariko (真里子)
-Masa (1-正, 2-雅, 3-昌, 4-真, 5-政, 6-将)
-Masako (1-雅子, 2-昌子)
-Masami (雅美)
-Masumi (真澄)
-Masuyo (益世)
-Mayumi (麻弓)
-Megumi (恵)
-Mi (美)
-Michi (道)
-Michiko (美智子)
-Midori (緑)
-Mieko (美枝子)
-Miho (1-美保, 2-美帆)
-Mika (美香)
-Miki (1-美紀, 2-美姫, 3-美樹, 4-美貴)
-Minako (美奈子)
-Minori (里)
-Misaki (美咲)
-Mitsuko (光子)
-Mitsuru (満)
-Miwa (1-美和, 2-美輪, 3-三和, 4-三輪)
-Miyako (美夜子)
-Miyoko (美代子)
-Miyuki (1-美幸, 2-美雪, 3-深雪)
-Mizuki (美月)
-Moe (萌)
-Momo (モモ)
-Momoe (百恵)
-Momoko (桃子)
-Moriko (森子)
-Nana (ナナ)
-Nao (1-直, 2-尚)
-Naoki (直樹)
-Naoko (1-直子, 2-尚子)
-Naomi (直美)
-Natsuko (夏子)
-Natsumi (夏美)
-Nobuko (信子)
-Nori (1-儀, 2-典, 3-則, 4-法)
-Noriko (法子 Or 典子)
-Ran (蘭)
-Rei (1-鈴, 2-零, 3-麗, 4-霊)
-Reiko (麗子)
-Ren (蓮)
-Rie (理恵)
-Rika (泉)
-Riko (理子)
-Rin (凛)
-Ryo (1-亮, 2-遼, 3-諒, 4-涼)
-Ryoko (1-亮子, 2-涼子)
-Sachiko (幸子)
-Saki (咲)
-Sakiko (咲子)
-Sakura (桜)
-Sango (さんご)
-Sayuri (小百合)
-Setsuko (節子)
+Mariko
+Masa
+Masako
+Masami
+Masumi
+Masuyo
+Mayumi
+Megumi
+Mi
+Michi
+Michiko
+Midori
+Mieko
+Miho
+Mika
+Miki
+Minako
+Minori
+Misaki
+Mitsuko
+Mitsuru
+Miwa
+Miyako
+Miyoko
+Miyuki
+Mizuki
+Moe
+Momo
+Momoe
+Momoko
+Moriko
+Nana
+Nao
+Naoki
+Naoko
+Naomi
+Natsuko
+Natsumi
+Nobuko
+Nori
+Noriko
+Ran
+Rei
+Reiko
+Ren
+Rie
+Rika
+Riko
+Rin
+Ryo
+Ryoko
+Sachiko
+Saki
+Sakiko
+Sakura
+Sango
+Sayuri
+Setsuko
 Shig
-Shigeko (成子)
-Shika (鹿)
-Shinju (真珠)
-Shiori (詩織)
-Shizuka (静香)
-Shizuko (静子)
-Sora (空)
-Sumiko (澄子)
-Susumu (進)
-Suzu (鈴)
-Suzume (雀)
-Takako (1-隆子, 2-孝子, 3-貴子, 4-敬子)
-Takara (宝)
-Tamiko (民子)
-Teruko (照子)
-Tomiko (美子)
-Tomoko (1-友子, 2-知子, 3-智子)
-Toshiko (敏子)
-Tsukiko (月子)
-Ume (梅)
-Umeko (梅子)
-Usagi (兎)
-Yasu (ヤス)
-Yasuko (康子)
-Yoko (1-洋子, 2-陽子)
-Yori (より)
-Yoshi (1-義, 2-吉, 3-良)
-Yoshie (1-佳江, 2-由栄, 3-淑恵, 4-好恵)
-Yoshiko (1-好子, 2-芳子, 3-良子)
-Yuka (1-由佳, 2-佑香)
-Yuki (1-幸, 2-雪)
-Yukiko (由希子)
-Yuko (1-優子, 2-裕子, 3-祐子)
-Yumi (由美)
-Yumiko (由美子)
-Yuriko (百合子)
+Shigeko
+Shika
+Shinju
+Shiori
+Shizuka
+Shizuko
+Sora
+Sumiko
+Susumu
+Suzu
+Suzume
+Takako
+Takara
+Tamiko
+Teruko
+Tomiko
+Tomoko
+Toshiko
+Tsukiko
+Ume
+Umeko
+Usagi
+Yasu
+Yasuko
+Yoko
+Yori
+Yoshi
+Yoshie
+Yoshiko
+Yuka
+Yuki
+Yukiko
+Yuko
+Yumi
+Yumiko
+Yuriko
