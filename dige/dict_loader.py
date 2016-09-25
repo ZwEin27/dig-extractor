@@ -2,7 +2,7 @@
 # @Author: ZwEin
 # @Date:   2016-09-25 14:55:45
 # @Last Modified by:   ZwEin
-# @Last Modified time: 2016-09-25 15:13:21
+# @Last Modified time: 2016-09-25 15:20:14
 
 import os
 import sys
@@ -12,12 +12,9 @@ import faerie
 
 DICT_PATH = os.path.join(os.path.dirname(__file__), '..', 'dictionaries')
 
-
 def load_dictionary(path):
     with codecs.open(path, 'r', 'utf-8') as file_handler:
         return [_.strip() for _ in file_handler.readlines()]
-
-    # return json.load()
 
 if __name__ == '__main__':
 
