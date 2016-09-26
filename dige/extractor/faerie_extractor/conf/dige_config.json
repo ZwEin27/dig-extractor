@@ -12,5 +12,5 @@
     ]
   },
   "token_size": 2,
-  "threshold": 0.8
+  "threshold": 0.95
 }
