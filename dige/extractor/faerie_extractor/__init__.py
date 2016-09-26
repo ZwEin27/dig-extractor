@@ -2,7 +2,7 @@
 # @Author: ZwEin
 # @Date:   2016-09-25 15:21:54
 # @Last Modified by:   ZwEin
-# @Last Modified time: 2016-09-25 19:24:38
+# @Last Modified time: 2016-09-25 19:37:10
 
 
 import faerie
@@ -12,9 +12,9 @@ import codecs
 
 FAERIE_CONF_DIR = os.path.join(os.path.dirname(__file__), 'conf')
 
-dictionary_ = os.path.expanduser(os.path.join(FAERIE_CONF_DIR, 'numbers_dictionary.json'))
-documents_ = os.path.expanduser(os.path.join(FAERIE_CONF_DIR, 'numbers_documents.json'))
-config_ = os.path.expanduser(os.path.join(FAERIE_CONF_DIR, 'numbers_config.json'))
+dictionary_ = os.path.expanduser(os.path.join(FAERIE_CONF_DIR, 'dige_dictionary.json'))
+documents_ = os.path.expanduser(os.path.join(FAERIE_CONF_DIR, 'dige_documents.json'))
+config_ = os.path.expanduser(os.path.join(FAERIE_CONF_DIR, 'dige_config.json'))
 
 faerie_config = json.loads(open(config_).read())
 faerie_dictionary = faerie.readDict(dictionary_, faerie_config)
