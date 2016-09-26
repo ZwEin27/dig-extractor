@@ -2,7 +2,7 @@
 # @Author: ZwEin
 # @Date:   2016-09-16 15:20:49
 # @Last Modified by:   ZwEin
-# @Last Modified time: 2016-09-25 19:12:27
+# @Last Modified time: 2016-09-25 19:13:23
 
 import os
 import sys
@@ -34,8 +34,7 @@ def gt_template_generator(input_path, output_path=None, sample_num=None, sample_
     if output_path:
         with open(output_path, 'wb') as file_handler:
             for data in dataset:
-                file_handler.write(json.dumps(data, indent=4) + '\n')
-
+                file_handler.write(json.dumps(data) + '\n')
 
 
 if __name__ == '__main__':
