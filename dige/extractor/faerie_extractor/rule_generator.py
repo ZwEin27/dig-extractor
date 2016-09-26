@@ -2,7 +2,7 @@
 # @Author: ZwEin
 # @Date:   2016-09-25 18:56:39
 # @Last Modified by:   ZwEin
-# @Last Modified time: 2016-09-25 19:40:04
+# @Last Modified time: 2016-09-25 19:41:57
 
 import os
 import sys
@@ -23,7 +23,8 @@ import dict_loader
 def generate_dictionary(items):
     dictionary = []
     for item in items:
-        dictionary.append({'content': item, 'id': 0})
+        item = item.lower()
+        dictionary.append({'content': item, 'id': item})
     with codecs.open(dictionary_, 'w', 'utf-8') as file_handler:
         for item in dictionary:
             file_handler.write(json.dumps(item) + '\n')
