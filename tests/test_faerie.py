@@ -35,21 +35,33 @@ class TestFaerieMethods(unittest.TestCase):
                 if annotation:
                     ans.append(line)
 
-
         with codecs.open(self.gt_filepath_sampled, 'w', 'utf-8') as file_handler:
             for item in ans:
                 file_handler.write(json.dumps(item) + '\n')
 
     def test_faerie(self):
         ans = []
+        report = []
         with codecs.open(self.gt_filepath_sampled, 'r', 'utf-8') as file_handler:
             for line in file_handler.readlines():
                 line = json.loads(line.strip().lower())
+                
                 annotation = faerie_extractor.run4text(line['content'])
                 annotation = faerie_extractor.clean_extraction(annotation)
                 if annotation:
                     line.setdefault('annotated_names', annotation)
                     ans.append(line)
+
+                correct_names = line['correct_names']
+
+                count = 0
+                for anno in annotation:
+                    if anno in correct_names:
+                        count += 1
+                report.append(count)
+
+        # 33/50
+        print len([_ for _ in report if _]), 'out of', len(report), 'extracted'
 
         # ans = [_ for _ in ans if _['annotated_names']]
         # print json.dumps(ans, indent=4)
